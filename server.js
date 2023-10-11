@@ -2,7 +2,7 @@
 
 const express = require("express");
 const app = express();
-const PORT = 5000;
+const PORT = 8000;
 const userData = require("./MOCK_DATA.json");
 const graphql = require("graphql");
 const {
